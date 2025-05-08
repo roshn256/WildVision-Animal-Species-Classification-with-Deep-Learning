@@ -1,0 +1,2 @@
+# WildVision-Animal-Species-Classification-with-Deep-Learning
+WildVision is a deep learning-based image classification system trained on the Animal-10 dataset. It accurately identifies and classifies images of 10 different animal species using convolutional neural networks (CNNs). This project demonstrates the power of computer vision in wildlife monitoring, educational tools, and biodiversity research.
